@@ -1,0 +1,198 @@
+2014-12-23 11:37:05,962 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:37:06,382 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RoseGold/src
+2014-12-23 11:37:06,382 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /RoseGold/src overlaps with sources folder /RoseGold/src
+2014-12-23 11:37:06,386 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /RoseGold/src/test/java because it overlaps with /RoseGold/src
+2014-12-23 11:37:06,494 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-12-23 11:37:06,538 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:37:06,825 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RoseGold/src
+2014-12-23 11:37:06,825 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /RoseGold/src overlaps with sources folder /RoseGold/src
+2014-12-23 11:37:06,828 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /RoseGold/src/test/java because it overlaps with /RoseGold/src
+2014-12-23 11:37:06,908 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-12-23 11:37:07,172 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:37:07,178 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:37:07,189 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:37:07,191 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:37:26,252 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:37:26,287 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:37:26,293 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:37:26,298 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:37:26,300 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:40:25,393 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\pet01\workspace\repo\RoseGold
+2014-12-23 11:40:25,395 [Worker-4] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2014-12-23 11:40:27,376 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:40:27,381 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:40:27,386 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:40:27,390 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:40:52,986 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:40:53,290 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:40:53,295 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-12-23 11:40:53,301 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:40:53,308 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:40:54,227 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-12-23 11:40:54,300 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:40:54,338 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RoseGold/src
+2014-12-23 11:40:54,340 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /RoseGold/src overlaps with sources folder /RoseGold/src
+2014-12-23 11:40:54,343 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /RoseGold/src/test/java because it overlaps with /RoseGold/src
+2014-12-23 11:40:54,454 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:40:54,493 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-12-23 11:40:54,690 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:40:54,693 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:40:54,697 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:40:54,701 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:40:59,010 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:40:59,041 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:40:59,044 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:40:59,050 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:40:59,053 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:41:11,936 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:41:11,967 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:41:11,971 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-12-23 11:41:11,974 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:41:11,978 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:41:12,891 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-12-23 11:41:12,954 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:41:12,987 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RoseGold/src
+2014-12-23 11:41:12,989 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /RoseGold/src overlaps with sources folder /RoseGold/src
+2014-12-23 11:41:12,989 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /RoseGold/src/test/java because it overlaps with /RoseGold/src
+2014-12-23 11:41:13,104 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:41:13,137 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-12-23 11:41:13,341 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:41:13,344 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:41:13,349 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:41:13,352 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:41:51,157 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2014-12-23 11:41:58,308 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\pet01\workspace\repo\RoseGold
+2014-12-23 11:41:58,310 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2014-12-23 11:41:58,483 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:41:59,404 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:41:59,406 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-12-23 11:41:59,409 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:41:59,412 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:42:00,994 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:42:00,997 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:42:01,004 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:42:01,007 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:42:39,409 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:42:39,415 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:42:39,422 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:42:39,427 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:42:45,362 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:42:45,366 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:42:45,369 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:42:45,373 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:42:57,695 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:42:57,700 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:42:57,706 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:42:57,713 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:43:06,212 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:43:06,216 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:43:06,220 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:43:06,223 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:43:10,157 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:43:10,163 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:43:10,170 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:43:10,175 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:43:20,749 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\pet01\workspace\repo\RoseGold
+2014-12-23 11:43:20,749 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2014-12-23 11:43:22,821 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:43:22,826 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-12-23 11:43:22,830 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:43:22,833 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:44:07,323 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:44:07,326 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-12-23 11:44:07,327 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:44:07,329 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:44:15,862 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:44:16,288 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:44:16,293 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:44:16,299 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:44:16,302 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:44:24,844 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:44:25,229 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:44:25,232 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:44:25,238 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:44:25,242 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:44:46,499 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:44:46,503 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:44:46,505 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:44:46,509 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:44:52,871 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\pet01\workspace\repo\RoseGold
+2014-12-23 11:44:52,871 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2014-12-23 11:44:54,960 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:44:54,965 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-12-23 11:44:54,969 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:44:54,971 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:49:59,757 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:49:59,760 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:49:59,765 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:49:59,768 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:50:03,566 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:50:03,985 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:50:03,991 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:50:03,998 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:50:04,003 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:50:18,040 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-12-23 11:50:18,094 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:50:18,476 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RoseGold/src
+2014-12-23 11:50:18,478 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /RoseGold/src overlaps with sources folder /RoseGold/src
+2014-12-23 11:50:18,481 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /RoseGold/src/test/java because it overlaps with /RoseGold/src
+2014-12-23 11:50:18,642 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:50:18,797 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-12-23 11:50:19,264 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:50:19,267 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:50:19,271 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:50:19,273 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:50:24,679 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\pet01\workspace\repo\RoseGold
+2014-12-23 11:50:24,679 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2014-12-23 11:50:26,668 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:50:26,673 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:50:26,680 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:50:26,684 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:50:40,875 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\pet01\workspace\repo\RoseGold
+2014-12-23 11:50:40,876 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2014-12-23 11:50:42,912 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:50:42,921 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-12-23 11:50:42,927 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:50:42,932 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:51:11,546 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:51:12,027 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:51:12,030 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:51:12,035 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:51:12,038 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:51:45,687 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\pet01\workspace\repo\RoseGold
+2014-12-23 11:51:45,689 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B generate-sources
+2014-12-23 11:51:46,628 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:51:46,633 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-12-23 11:51:46,636 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:51:46,640 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:52:23,831 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:52:23,836 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:52:23,843 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:52:23,847 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:52:45,734 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:52:46,157 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:52:46,183 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:52:46,194 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:52:46,196 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:52:56,201 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:52:56,560 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:52:56,563 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:52:56,568 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:52:56,572 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:53:09,436 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-12-23 11:53:09,501 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:53:09,893 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /RoseGold/src
+2014-12-23 11:53:09,895 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /RoseGold/src overlaps with sources folder /RoseGold/src
+2014-12-23 11:53:09,895 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /RoseGold/src/test/java because it overlaps with /RoseGold/src
+2014-12-23 11:53:10,133 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: RoseGold:RoseGold:0.0.1-SNAPSHOT @ C:\Users\pet01\workspace\repo\RoseGold\pom.xml.
+2014-12-23 11:53:10,306 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2014-12-23 11:53:10,585 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:53:10,589 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2014-12-23 11:53:10,595 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:53:10,597 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
+2014-12-23 11:53:14,750 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\pet01\workspace\repo\RoseGold
+2014-12-23 11:53:14,751 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B test
+2014-12-23 11:53:38,798 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:53:38,803 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-12-23 11:53:38,808 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2014-12-23 11:53:38,815 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\pet01\workspace\repo\RoseGold\src\test\resources
