@@ -1,6 +1,6 @@
 package test.java;
+
 import java.io.FileInputStream;
-import java.net.URL;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.poi.hssf.usermodel.HSSFCell;
@@ -9,18 +9,11 @@ import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.remote.DesiredCapabilities;
-import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.support.events.EventFiringWebDriver;
 import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.Test;
-
-import bsh.Capabilities;
-
-import com.thoughtworks.selenium.DefaultSelenium;
-import com.thoughtworks.selenium.Selenium;
 
 import rose.Elements.LoginRose;
 import rose.Elements.MemorableWord;
@@ -32,12 +25,11 @@ public class RoseTestCase {
 	public String url;
 	public String userName;
 	public String uPass;
-	public String mbr;
 	OpenURL openurl= new OpenURL();
 	LoginRose login = new LoginRose();
 	MemorableWord memword= new MemorableWord();
 	//LoginPageObjects loginObjects= new LoginPageObjects();
-	public String mem= "MBRGOLD123";
+	public String mem;
 	
 	
 	
@@ -53,15 +45,18 @@ public class RoseTestCase {
 		}
 System.out.println("Method: validateURL");	
 	}
-	
+
 	@Test(dependsOnGroups="openurl", groups="login")
   	public void loginToRose() {
 	  login.user_name_object(RoseBrowser).sendKeys(userName);
 	  login.password_Field(RoseBrowser).sendKeys(uPass);
 	  login.submit_Button(RoseBrowser).click();
+	 
 	  Assert.assertEquals(RoseBrowser.getTitle(),login.loginValidate());
 		System.out.println("Method: loginTORose");
-  }
+	
+		}
+  
     
 @Test(dependsOnGroups={"openurl","login"},groups="mem")
 public void memWord(){
@@ -92,11 +87,9 @@ public void memWord(){
 
 @BeforeSuite
 public void beforeSuite() throws Exception {
-	
-	
 	RoseBrowser=new FirefoxDriver();
 	RoseBrowser.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
-    eRose =new EventFiringWebDriver(RoseBrowser);
+   // eRose =new EventFiringWebDriver(RoseBrowser);
 	url = "https://rose.uat1.interfloratest.co.uk/interflora/login.jsp";
 	  
 		try{
@@ -111,9 +104,11 @@ public void beforeSuite() throws Exception {
 		//Getting Cell Values from Excel
 		HSSFCell cel1 = row1.getCell(1);
 		HSSFCell cel2 = row1.getCell(2);
+		HSSFCell cel3 = row1.getCell(3);
 		//Assign Cell values to Variables
 		userName= cel1.getStringCellValue();
 		uPass = cel2.getStringCellValue();
+		mem = cel3.getStringCellValue();
 		//System.out.println(userName);
 		}catch(Exception F){
 			System.out.println("File Not Found");

@@ -20,11 +20,4 @@
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/RoseDataContainer/testData.xls</name>
-			<type>1</type>
-			<location>E:/testData.xls</location>
-		</link>
-	</linkedResources>
 </projectDescription>

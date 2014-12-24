@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <parameter name="browser" value="ie"/>
+  <test name="Test2(failed)" parallel="none">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="test.java.Test1">
+        <methods>
+          <include name="f"/>
+          <include name="BeforeTest"/>
+        </methods>
+      </class> <!-- test.java.Test1 -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

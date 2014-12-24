@@ -1,0 +1,31 @@
+package test.java;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+
+public class Test1 {
+	public WebDriver Rose;
+	
+  @Test
+  public void f() {
+	  Rose.get("https://www.google.com");
+	 System.out.println("Test1 Passed");
+  }
+  
+  @Parameters("browser")
+  @BeforeClass()
+  public void BeforeTest(String browser){
+	  if(browser.equalsIgnoreCase("firefox")){
+		  Rose = new FirefoxDriver();
+		  
+	  }else if(browser.equalsIgnoreCase("ie")){
+		  System.setProperty("webdriver.ie.driver", "sr//RoseDataContainer//IEDriverServer.exe");
+		  Rose=  new InternetExplorerDriver();
+	  }
+	  
+  }
+}

@@ -1,0 +1,43 @@
+package test.java;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.testng.annotations.Parameters;
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.AfterSuite;
+
+public class RoseTest {
+	public static WebDriver RoseDrive;
+	public static String url;
+	
+	
+	
+	
+  @Test
+  public void f() {
+	  RoseDrive.get("https://www.google.com");
+  }
+  
+  
+  
+  @Parameters("browser")
+  @BeforeTest
+  public void beforeTest(String browser) {
+	  
+	  if (browser.equalsIgnoreCase("firefox")){
+		  RoseDrive= new FirefoxDriver();
+	  } else if(browser.equalsIgnoreCase("ie")){
+		  System.setProperty("webdriver.ie.driver","src//RoseDataContainer/IEDriverServer.exe");
+		  RoseDrive= new InternetExplorerDriver();
+	  }else if(browser.equalsIgnoreCase("chrome")){
+		  RoseDrive= new ChromeDriver();
+	  }
+	 
+  }
+
+}

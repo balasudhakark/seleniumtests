@@ -1,0 +1,39 @@
+package test.java;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.AfterSuite;
+
+public class RoseTest {
+	public static WebDriver RoseDrive;
+	
+	
+	
+	
+  @Test
+  public void f() {
+  }
+  @BeforeTest
+  public void beforeTest() {
+  }
+
+  @AfterTest
+  public void afterTest() {
+  }
+
+  @BeforeSuite
+  public void beforeSuite() {
+	  RoseDrive= new FirefoxDriver();
+	  
+  }
+
+  @AfterSuite
+  public void afterSuite() {
+	  
+  }
+
+}
