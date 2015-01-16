@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="12582" started-at="2015-01-16T09:06:54Z" finished-at="2015-01-16T09:07:07Z">
+    <groups>
+      <group name="openurl">
+        <method signature="RoseUnit1.validateURL()[pri:0, instance:test.java.RoseUnit1@171769e]" name="validateURL" class="test.java.RoseUnit1"/>
+      </group> <!-- openurl -->
+      <group name="mem">
+        <method signature="RoseUnit1.memWord()[pri:0, instance:test.java.RoseUnit1@171769e]" name="memWord" class="test.java.RoseUnit1"/>
+      </group> <!-- mem -->
+      <group name="login">
+        <method signature="RoseUnit1.validateURL()[pri:0, instance:test.java.RoseUnit1@171769e]" name="validateURL" class="test.java.RoseUnit1"/>
+        <method signature="RoseUnit1.loginToRose()[pri:0, instance:test.java.RoseUnit1@171769e]" name="loginToRose" class="test.java.RoseUnit1"/>
+      </group> <!-- login -->
+    </groups>
+    <test name="Test" duration-ms="12582" started-at="2015-01-16T09:06:54Z" finished-at="2015-01-16T09:07:07Z">
+      <class name="test.java.RoseUnit1">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:test.java.RoseUnit1@171769e]" name="beforeSuite" is-config="true" duration-ms="6045" started-at="2015-01-16T01:06:48Z" finished-at="2015-01-16T01:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="validateURL()[pri:0, instance:test.java.RoseUnit1@171769e]" name="validateURL" duration-ms="3933" started-at="2015-01-16T01:06:55Z" finished-at="2015-01-16T01:06:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateURL -->
+        <test-method status="PASS" signature="loginToRose()[pri:0, instance:test.java.RoseUnit1@171769e]" name="loginToRose" duration-ms="3052" depends-on-groups="openurl" started-at="2015-01-16T01:06:59Z" finished-at="2015-01-16T01:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToRose -->
+        <test-method status="PASS" signature="memWord()[pri:0, instance:test.java.RoseUnit1@171769e]" name="memWord" duration-ms="5442" depends-on-groups="openurl, login" started-at="2015-01-16T01:07:02Z" finished-at="2015-01-16T01:07:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- memWord -->
+      </class> <!-- test.java.RoseUnit1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
