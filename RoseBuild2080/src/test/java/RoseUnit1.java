@@ -31,6 +31,7 @@ public class RoseUnit1 {
 	MemWord memword= new MemWord();
 	//LoginPageObjects loginObjects= new LoginPageObjects();
 	public String mem;
+	
 	@Test(groups={"openurl","login"})
 	public void validateURL() throws Throwable{
 	RoseBrowser.get(url);
@@ -43,6 +44,7 @@ public class RoseUnit1 {
 	}
 	System.out.println("Method: validateURL");
 	}
+	
 	@Test(dependsOnGroups="openurl", groups="login")
 	public void loginToRose() {
 	login.user_name_object(RoseBrowser).sendKeys(userName);
