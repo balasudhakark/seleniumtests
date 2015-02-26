@@ -21,7 +21,7 @@ import pomFramework.OpenURL;
 
 public class RoseUnit1 {
 	
-	public WebDriver RoseBrowser;
+	public WebDriver RoseBrowses;
 	public EventFiringWebDriver eRose;
 	public String url;
 	public String userName;
